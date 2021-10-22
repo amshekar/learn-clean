@@ -1,1 +1,2 @@
 # learn-clean
+1. Clean Design encompasses different principles and strategies, including the SOLID Principles, the Tell, Don’t Ask Principle, the Law of Demeter, Package Design Principles, and Package Design Strategies. It also involves establishing clear Boundaries to prevent unnecessary dependencies in your code and practicing Clean Architecture to make the purpose of a system or application clear.
